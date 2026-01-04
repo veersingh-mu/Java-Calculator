@@ -7,14 +7,18 @@ Simple command-line calculator built in Java for basic arithmetic operations. Pe
 ## Features
 <br>
 - Addition (+)
+<br>
 - Subtraction (-)
+<br>
 - Multiplication (*)
+<br>
 - Division (/) with division-by-zero protection
+<br>
 - Supports decimal numbers (double)
+<br>
 
 ## Demo
 <img width="1307" height="669" alt="image" src="https://github.com/user-attachments/assets/bf884e92-d3a8-4512-b77f-0b0609a6d061" />
-(Replace with your actual terminal screenshot here—drag-drop image into GitHub)
 
 ## How to Run
 1. Save as `Calculator.java`
